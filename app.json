@@ -1,0 +1,100 @@
+{
+  "id": "c39a0ea8-38bb-49ff-b981-b22580c19e4c",
+  "name": "VYTLCustomAPI",
+  "publisher": "Trangile",
+  "version": "1.1.0.8",
+  "runtime": "10.0",
+  "target": "Cloud",
+  "application": "21.0.0.0",
+  "platform": "26.0.42141.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "features": [
+    "NOIMPLICITWITH"
+  ],
+  "dependencies": [
+    {
+      "id": "1150dd8d-51da-485a-bd4a-1ee98d78c21a",
+      "name": "Fixed Asset Depreciation for India",
+      "version": "22.0.54157.54917",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "2dc39818-e0f0-42b6-99eb-ba29dc5f4102",
+      "name": "India Gate Entry",
+      "version": "22.0.54157.54917",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+      "name": "India GST",
+      "version": "22.0.54157.54917",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "050f6146-bffd-40de-942c-d0dd510ec20f",
+      "name": "India Reports",
+      "version": "22.0.54157.54917",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+      "name": "India Tax Base",
+      "version": "22.0.54157.54917",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "eddcf82e-482c-49d1-836b-ad0284f2c5b0",
+      "name": "India TCS",
+      "version": "22.0.54157.54917",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "eae5779e-7797-4c4c-977e-7516652b7a65",
+      "name": "India TDS",
+      "version": "22.0.54157.54917",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "f1d9b696-156b-4251-b542-34e549fa80e9",
+      "name": "India Voucher Interface",
+      "version": "22.0.54157.54917",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "7106d701-c601-4a5f-97c2-b8b323ae2c18",
+      "name": "QR Generator",
+      "version": "22.0.54157.54917",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+      "name": "Tax Engine",
+      "version": "22.0.54157.54917",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "22.5.59966.60728",
+      "publisher": "Microsoft"
+    },
+   
+     {
+      "id": "f0e40fff-a0cb-4ed7-bb43-2fc72aedc5be",
+      "name": "TNGVYTL",
+      "version": "2.1.0.203",
+      "publisher": "Trangile"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 62000,
+      "to": 63000
+    }
+  ]
+}
