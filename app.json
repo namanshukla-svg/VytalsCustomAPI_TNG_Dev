@@ -1,6 +1,6 @@
 {
   "id": "c39a0ea8-38bb-49ff-b981-b22580c19e4c",
-  "name": "VYTLCustomAPI",
+  "name": "CustomAPI",
   "publisher": "Trangile",
   "version": "1.1.0.8",
   "runtime": "10.0",
@@ -86,7 +86,7 @@
    
      {
       "id": "f0e40fff-a0cb-4ed7-bb43-2fc72aedc5be",
-      "name": "TNGVYTL",
+      "name": "VYTALS",
       "version": "2.1.0.203",
       "publisher": "Trangile"
     }
