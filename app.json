@@ -2,11 +2,11 @@
   "id": "c39a0ea8-38bb-49ff-b981-b22580c19e4c",
   "name": "CustomAPI",
   "publisher": "Trangile",
-  "version": "1.1.0.8",
+  "version": "1.1.0.10",
   "runtime": "10.0",
   "target": "Cloud",
-  "application": "21.0.0.0",
-  "platform": "26.0.42141.0",
+   "platform": "1.0.0.0",
+  "application": "25.0.0.0",
   "resourceExposurePolicy": {
     "allowDebugging": true,
     "allowDownloadingSource": true,
@@ -83,11 +83,10 @@
       "version": "22.5.59966.60728",
       "publisher": "Microsoft"
     },
-   
-     {
+    {
       "id": "f0e40fff-a0cb-4ed7-bb43-2fc72aedc5be",
       "name": "VYTALS",
-      "version": "2.1.0.203",
+      "version": "2.1.0.206",
       "publisher": "Trangile"
     }
   ],
